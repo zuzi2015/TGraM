@@ -1,0 +1,15 @@
+{
+    "root":"./data",
+    "train":
+    {
+        "mot17":"./data/airmat_train"
+    },
+    "test_emb":
+    {
+        "mot17":"./data/airmat_train"
+    },
+    "test":
+    {
+        "mot17":"./data/airmat_train"
+    }
+}
